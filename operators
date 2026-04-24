@@ -1,0 +1,55 @@
+a=17
+b=5
+#arithmetic operators
+print(a+b)
+print (a-b)
+print(a/b)
+print(a*b)
+print(a//b)
+print(a**b)
+print(a%b)
+#asssignment operators
+a=10
+a+=5
+a/=3
+a*=4
+a%=3
+a**=2
+print(a)
+#relational operators(!= means not equal to)
+a=10
+b=20
+print(a<b)
+print(a>b)
+print(a==b)
+print(a!=b)
+print(a<=b)
+print(a>=b)
+#logical operators
+a=10
+b=20
+c=30
+print(a>b and a<c)
+print(a<b or a<c)
+#membership operators
+a="hello world"
+print (a)
+print("hello" in a)
+print("he w"not in a)
+#identity operators
+a="hello"
+b="hello"
+print(a)
+print(a==b)
+print(a is b)
+print(a!=b)
+print(a is not b)
+print(id(a),id(b))
+#identity operators with input from user
+a=input("enter value of a")
+b=input("enter value of b")
+print(id(a),id(b))
+print(a==b)
+print(a is b)
+print(a!=b)
+print(a is not b)
