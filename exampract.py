@@ -76,7 +76,8 @@
 #         a=x
 #     num2=num2//10
 # print(a)
-    
-            
-    
-    
+# list=[2,5,2,7,9,5,3,7]
+# x=0
+# for i in list:
+#     x+=i
+# print(x)
