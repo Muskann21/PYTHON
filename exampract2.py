@@ -135,6 +135,16 @@
 #         y*=j
 #     sum=sum+(x**i/y)
 # print(sum)
+
+# file=open("myfile.txt","w")
+# file.write("Hello")
+# file.close()
+# file=open("myfile.txt","r")
+# a=file.read()
+# print(a)
+# file.close()
+
+
  
         
 
